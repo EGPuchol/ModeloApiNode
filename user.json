@@ -1,0 +1,27 @@
+{
+    "name": "Jhon Doe",
+    "password": "123456"
+}
+
+{
+"title": "El Padrino",
+"director": "Francis Ford Coppola",
+"year": 1972,
+"genre": "Drama",
+}
+
+{
+    "name": "Paramount",
+    "country": "USA",
+    "budget": 500.000
+},
+
+{
+    "studio_id":"65a4ed39d094880650d4e5bd",
+    "movie_id": "65a01fef4b77bebec910bc01",
+    "movie_id": "65a1a02e3e07df28b6e38ebb"
+}
+
+
+65a01fef4b77bebec910bc01
+65a1a02e3e07df28b6e38ebb
